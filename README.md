@@ -1,2 +1,3 @@
 # weatherAPI
-webova sluzba pro predpoved pocasi
+
+web service for weather forecast
